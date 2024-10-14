@@ -1,6 +1,6 @@
 ---
 name: "[FR] Signaler un bug"
-about: Créer un rapport pour nous aider à résoudre le bug.
+about: Créer un rapport pour m'aider à résoudre le bug.
 title: "[FR] "
 labels: ''
 assignees: ''
