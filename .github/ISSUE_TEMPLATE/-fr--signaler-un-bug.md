@@ -11,7 +11,7 @@ assignees: ''
 Une description claire et concise de la nature du bug.
 
 **À reproduire**
-Étapes pour reproduire le bug : 
+Étapes pour reproduire le bug :
 1. 
 2. 
 3. 
