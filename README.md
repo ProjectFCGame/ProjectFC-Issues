@@ -1,4 +1,3 @@
-# ProjectFC-Issues
 # LISEZ CECI AVANT DE SIGNALER UN BUG !
 
 Vous êtes sur le bug tracker de [Project FC Remastered](https://youtu.be/dQw4w9WgXcQ?si=g9RHpJexHWypEr29), ne postez pas ici de suggestions ni de demandes d'aides.
